@@ -27,9 +27,10 @@ export const schemaToType = (schema: Schema): string => {
       return `object${nullable(schema)}`;
     }
     case "allOf":
-      return `(${schema.schemas.map(schemaToType).join(" & ")})`;
+      return `(${schema.schemas.map(schemaToType).join(" & ")})${nullable(schema)}`;
     case "oneOf":
-      return `(${schema.schemas.map(schemaToType).join(" | ")})`;
+    case "anyOf":
+      return `(${schema.schemas.map(schemaToType).join(" | ")})${nullable(schema)}`;
     case "array":
       return `${schema.items ? `Array<${schemaToType(schema.items)}>` : "any[]"}${nullable(schema)}`;
     case "boolean":
