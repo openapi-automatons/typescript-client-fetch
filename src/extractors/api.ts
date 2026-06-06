@@ -1,6 +1,6 @@
 import {AffectPath, Api, Path} from "@automatons/parser";
 
-const isAffectPath = (path: Path): path is AffectPath => ['post', 'patch', 'put'].includes(path.method);
+const isAffectPath = (path: Path): path is AffectPath => 'forms' in path;
 
 export const extractApiMeta = (api: Api) => {
   const hasTemplate = api.servers.some(server => server.values?.length)
