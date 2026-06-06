@@ -31,9 +31,12 @@ describe("schemaToType", () => {
     expect(schemaToType({type: "model", name: "Pet"})).toBe("Pet");
   });
 
-  it("renders allOf and oneOf", () => {
+  it("renders allOf, oneOf and anyOf", () => {
     expect(schemaToType({type: "allOf", schemas: [{type: "model", name: "A"}, {type: "model", name: "B"}]})).toBe("(A & B)");
     expect(schemaToType({type: "oneOf", schemas: [{type: "model", name: "A"}, {type: "model", name: "B"}]})).toBe("(A | B)");
+    expect(schemaToType({type: "anyOf", schemas: [{type: "model", name: "A"}, {type: "model", name: "B"}]})).toBe("(A | B)");
+    expect(schemaToType({type: "oneOf", nullable: true, schemas: [{type: "model", name: "A"}, {type: "model", name: "B"}]})).toBe("(A | B) | null");
+    expect(schemaToType({type: "allOf", nullable: true, schemas: [{type: "model", name: "A"}, {type: "model", name: "B"}]})).toBe("(A & B) | null");
   });
 
   it("renders objects with properties", () => {

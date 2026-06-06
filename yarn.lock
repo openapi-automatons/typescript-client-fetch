@@ -38,20 +38,20 @@
     "@jridgewell/gen-mapping" "^0.3.5"
     "@jridgewell/trace-mapping" "^0.3.24"
 
-"@automatons/parser@^1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@automatons/parser/-/parser-1.0.0.tgz#9b3cf2d119ec5b8be6d079dd8b812c2cf3bb36ed"
-  integrity sha512-t0hRkE1Kiofno4smRDJ0PsBvCo3Tkp0+J1xe1JlAp5RXM1VzNu3IoSkN7rxO/X4y9SN8/09uUxpGB+DwhTfepg==
+"@automatons/parser@^1.2.0":
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/@automatons/parser/-/parser-1.2.0.tgz#463bce0b32306dd65d685dcd2fb68878e33e2e34"
+  integrity sha512-svuvgKNyuLhA4QklwRO5944aLJo43gfiECnzg1gRiOt8kSASMrZlsUgry+MvQ/NChI1Y0YRMZiMSbgk5xIiUMA==
   dependencies:
-    "@automatons/tools" "^2.0.0"
+    "@automatons/tools" "^2.2.0"
     change-case "^5.4.4"
 
-"@automatons/tools@^2.0.0":
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/@automatons/tools/-/tools-2.0.1.tgz#1de28b8f3b925319d317515034e0530adba19a35"
-  integrity sha512-l7eUj0OA/p1z7xkpf7kwOGGRQBl2aqVUzXht3C85T1DDYHhXDpUz9v+1w5ckdO37nN4EBIQhAyjpOQ9i30ahzg==
+"@automatons/tools@^2.2.0":
+  version "2.2.0"
+  resolved "https://registry.yarnpkg.com/@automatons/tools/-/tools-2.2.0.tgz#8aa60b9ca53040e0f1c02659d5c23e75603f6be0"
+  integrity sha512-JeehWbzyK1Efrz3YlJCXlKxOQQzjFriVN1WSuO3D6mM71coWESoJ4EJWyP8BA01mdJpvQ/YoZe/Os7A4K2Gejg==
   dependencies:
-    js-yaml "^4.1.0"
+    js-yaml "^4.2.0"
 
 "@babel/code-frame@^7.0.0", "@babel/code-frame@^7.26.2", "@babel/code-frame@^7.29.7":
   version "7.29.7"
@@ -3261,7 +3261,7 @@ js-yaml@^3.14.1:
     argparse "^1.0.7"
     esprima "^4.0.0"
 
-js-yaml@^4.1.0:
+js-yaml@^4.1.0, js-yaml@^4.2.0:
   version "4.2.0"
   resolved "https://registry.yarnpkg.com/js-yaml/-/js-yaml-4.2.0.tgz#2bd9e85682dd91bd469afb809d816043b3d49524"
   integrity sha512-ePWsvanv0DWuDRsW8dnt+R4jQ31SCRCQ7hhNcPXZPsoBZiemuZNYGf7adZdqX2D86j6rvKp3RpCxVTSb8WQlOw==
