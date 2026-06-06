@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/openapi-automatons/typescript-client-fetch/compare/v1.1.0...v1.2.0) (2026-06-06)
+
+
+### Features
+
+* render OpenAPI 3.2 query/additionalOperations and querystring ([#3](https://github.com/openapi-automatons/typescript-client-fetch/issues/3)) ([47e4efd](https://github.com/openapi-automatons/typescript-client-fetch/commit/47e4efde8e60eda0af500cc2b4ace8998851962e))
+
 # [1.1.0](https://github.com/openapi-automatons/typescript-client-fetch/compare/v1.0.0...v1.1.0) (2026-06-05)
 
 
