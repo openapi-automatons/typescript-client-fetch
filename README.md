@@ -12,6 +12,21 @@ This package is **ESM-only** and requires **Node.js >= 22**.
 Each generated operation returns a `FetchResponse<T>` (`{ data, status, statusText, headers, response }`), so consumers can write `const { data } = await api.xxx()`.
 Non-2xx responses are **not** thrown — inspect `response.ok` / `status` instead.
 
+## Generated client
+```ts
+import { PetsApi } from "./clients";
+
+const api = new PetsApi({
+  // `fetch` defaults to the global fetch; pass one to customise it
+  security: { bearerAuth: () => getToken() }, // auth for the document's security schemes
+});
+
+const { data, response } = await api.showPetById("1");
+if (!response.ok) {
+  // non-2xx is not thrown — handle it here
+}
+```
+
 ## How can I use @automatons/typescript-client-fetch?
 This library is designed to be used by [openapi-automatons](https://github.com/openapi-automatons/openapi-automatons).
 Please read the [readme](https://github.com/openapi-automatons/openapi-automatons/blob/main/README.md) of [openapi-automatons](https://github.com/openapi-automatons/openapi-automatons) for how to use it.
