@@ -45,7 +45,7 @@
     "openapi-automatons": "^2"
   },
   "devDependencies": {
-    "@commitlint/cli": "^21.1.0",
+    "@commitlint/cli": "^21.2.0",
     "@commitlint/config-conventional": "^21.0.2",
     "@eslint/js": "^10.0.1",
     "@semantic-release/changelog": "^6.0.3",
