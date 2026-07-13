@@ -4116,10 +4116,10 @@ object-assign@^4.0.1:
   resolved "https://registry.yarnpkg.com/object-assign/-/object-assign-4.1.1.tgz#2109adc7965887cfc05cbbd442cac8bfbb360863"
   integrity sha512-rJgTQnkUnH1sFw8yT6VSU3zD3sWmu6sZhIseY8VX+GRu3P6F7Fu+JNDoXfklElbLJSnc3FUQHVe4cU5hj+BcUg==
 
-object-to-formdata@^4.5.1:
-  version "4.5.1"
-  resolved "https://registry.yarnpkg.com/object-to-formdata/-/object-to-formdata-4.5.1.tgz#b6955a9c505b58df15852fee5f844b418b3eb6fe"
-  integrity sha512-QiM9D0NiU5jV6J6tjE1g7b4Z2tcUnKs1OPUi4iMb2zH+7jwlcUrASghgkFk9GtzqNNq8rTQJtT8AzjBAvLoNMw==
+object-to-formdata@^5.0.0:
+  version "5.0.0"
+  resolved "https://registry.yarnpkg.com/object-to-formdata/-/object-to-formdata-5.0.0.tgz#d5a9ea70a64660d08f42c8432d256ac6038d62d0"
+  integrity sha512-reALyBo3+Nq71Py5uto2tjdxoAun83YqNBqElAWMNiOwfQxAnpMQiFPpZEvRL3kjShxsiBhNY/ikLUbc42TZ1Q==
 
 onetime@^5.1.2:
   version "5.1.2"
