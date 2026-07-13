@@ -57,7 +57,7 @@
     "eslint-config-prettier": "^10.1.8",
     "husky": "^9.1.7",
     "lint-staged": "^17.0.8",
-    "object-to-formdata": "^4.5.1",
+    "object-to-formdata": "^5.0.0",
     "semantic-release": "^25.0.6",
     "tsup": "^8.5.0",
     "tsx": "^4.23.0",
