@@ -60,7 +60,7 @@
     "object-to-formdata": "^5.0.0",
     "semantic-release": "^25.0.7",
     "tsup": "^8.5.0",
-    "tsx": "^4.23.0",
+    "tsx": "^4.23.1",
     "typescript": "^6.0.3",
     "typescript-eslint": "^8.64.0",
     "vitest": "^3.2.0"
