@@ -38,15 +38,15 @@
     "@jridgewell/gen-mapping" "^0.3.5"
     "@jridgewell/trace-mapping" "^0.3.24"
 
-"@automatons/parser@^1.2.42":
-  version "1.2.42"
-  resolved "https://registry.yarnpkg.com/@automatons/parser/-/parser-1.2.42.tgz#5898e920b8e50382201028036eaf339067ff5d69"
-  integrity sha512-Ok6a5+Rcu+aQk6c+OX0+3pVdCXUawgfWfebqJbwJc1zQZhbZaxHGNnuJJxg2QA6exWBttEvZVKJtWLCCkEM+4w==
+"@automatons/parser@^1.2.44":
+  version "1.2.44"
+  resolved "https://registry.yarnpkg.com/@automatons/parser/-/parser-1.2.44.tgz#3dd2e947167df8a5cf17ced712b0705d966bb094"
+  integrity sha512-WXksljUshLuHpd/tNn3964jX6e94ygGOEoDEt24kizNveJyVi5p3YIhxDKwJHqGysWylmdWqy0nAPCPrmc1yIQ==
   dependencies:
-    "@automatons/tools" "^2.2.21"
+    "@automatons/tools" "^2.2.23"
     change-case "^5.4.4"
 
-"@automatons/tools@^2.2.21", "@automatons/tools@^2.2.23":
+"@automatons/tools@^2.2.23":
   version "2.2.23"
   resolved "https://registry.yarnpkg.com/@automatons/tools/-/tools-2.2.23.tgz#d12fcb503a499d3001656ee2c5816965ffea8827"
   integrity sha512-jEk5SOV4r7mMjm5+R1Avz3BfMMxRFx6hek9VjnYTy8lNz4UJkBq3i7aQG3uy5ChQLt7uTBS9p+Awaph2+/7yWA==
@@ -4328,10 +4328,10 @@ prelude-ls@^1.2.1:
   resolved "https://registry.yarnpkg.com/prelude-ls/-/prelude-ls-1.2.1.tgz#debc6489d7a6e6b0e7611888cec880337d316396"
   integrity sha512-vkcDPrRZo1QZLbn5RLGPpg/WmIQ65qoWWhcGKf/b5eplkkarX0m9z8ppCat4mlOqUsWpyNuYgO3VRyrYHSzX5g==
 
-prettier@^3.9.5:
-  version "3.9.5"
-  resolved "https://registry.yarnpkg.com/prettier/-/prettier-3.9.5.tgz#4fec97736e33b9d0b620b48914fe93b530e835ad"
-  integrity sha512-/FVl766LpUfB5vXgCYOYa0MeV/441Ia99AeICQIQFTY/Nw0roZwULcXpku5i1/m5kt/baz+s4Zogspd839HSMg==
+prettier@^3.9.6:
+  version "3.9.6"
+  resolved "https://registry.yarnpkg.com/prettier/-/prettier-3.9.6.tgz#b3ea5146515d40fc53f18aa63f74dfab1e10dbf6"
+  integrity sha512-OpN0zzVdiaiAhxpuuj5efpIS4sY9j7bY6uR5mnj5yPzGkdkjNKSJeUThPb60Jw29QuAZgA4o+/iB49kFiaBX6g==
 
 pretty-ms@^9.2.0:
   version "9.3.0"
