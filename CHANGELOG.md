@@ -1,3 +1,12 @@
+## [1.2.3](https://github.com/[secure]-[secure]/typescript-client-[secure]/compare/v1.2.2...v1.2.3) (2026-07-27)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @semantic-release/git from 11.0.0 to 11.0.1 ([#95](https://github.com/[secure]-[secure]/typescript-client-[secure]/issues/95)) ([d627e07](https://github.com/[secure]-[secure]/typescript-client-[secure]/commit/d627e0739c1ad2d93cf9ac985f1e4482633eb501))
+* **deps-dev:** bump eslint from 10.7.0 to 10.8.0 ([#96](https://github.com/[secure]-[secure]/typescript-client-[secure]/issues/96)) ([fbc6c0f](https://github.com/[secure]-[secure]/typescript-client-[secure]/commit/fbc6c0ff12df69ece392bc65c9b22a7846aedb6b))
+* **deps:** bump @[secure]/parser from 1.2.47 to 1.2.50 ([#97](https://github.com/[secure]-[secure]/typescript-client-[secure]/issues/97)) ([7696378](https://github.com/[secure]-[secure]/typescript-client-[secure]/commit/7696378553e64da644169fce314acb10d00cb85a))
+
 ## [1.2.2](https://github.com/[secure]-[secure]/typescript-client-[secure]/compare/v1.2.1...v1.2.2) (2026-07-27)
 
 
