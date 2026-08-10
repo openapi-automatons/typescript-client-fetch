@@ -1,3 +1,10 @@
+## [1.2.13](https://github.com/[secure]-[secure]/typescript-client-[secure]/compare/v1.2.12...v1.2.13) (2026-08-10)
+
+
+### Bug Fixes
+
+* **deps:** bump @[secure]/tools from 2.2.36 to 2.2.38 ([#112](https://github.com/[secure]-[secure]/typescript-client-[secure]/issues/112)) ([8e5199c](https://github.com/[secure]-[secure]/typescript-client-[secure]/commit/8e5199cf09fd9aad5f11e7e7eeef0418f2d7e3f2))
+
 ## [1.2.12](https://github.com/[secure]-[secure]/typescript-client-[secure]/compare/v1.2.11...v1.2.12) (2026-08-10)
 
 
