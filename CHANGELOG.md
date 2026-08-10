@@ -1,3 +1,12 @@
+## [1.2.12](https://github.com/[secure]-[secure]/typescript-client-[secure]/compare/v1.2.11...v1.2.12) (2026-08-10)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump semantic-release from 25.0.8 to 25.0.9 ([#111](https://github.com/[secure]-[secure]/typescript-client-[secure]/issues/111)) ([0421de7](https://github.com/[secure]-[secure]/typescript-client-[secure]/commit/0421de7454553152fe478eba82a412528de87f2f))
+* **deps-dev:** bump tsx from 4.23.5 to 4.23.9 ([#110](https://github.com/[secure]-[secure]/typescript-client-[secure]/issues/110)) ([1db0318](https://github.com/[secure]-[secure]/typescript-client-[secure]/commit/1db031825f96e7b69b1d0589136ecb2136dd309d))
+* **deps:** bump @[secure]/parser from 1.2.54 to 1.2.55 ([#109](https://github.com/[secure]-[secure]/typescript-client-[secure]/issues/109)) ([6626997](https://github.com/[secure]-[secure]/typescript-client-[secure]/commit/662699705eb09535789db2694a39b465520788af))
+
 ## [1.2.11](https://github.com/[secure]-[secure]/typescript-client-[secure]/compare/v1.2.10...v1.2.11) (2026-08-07)
 
 
