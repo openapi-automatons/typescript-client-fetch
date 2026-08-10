@@ -38,10 +38,10 @@
     "@jridgewell/gen-mapping" "^0.3.5"
     "@jridgewell/trace-mapping" "^0.3.24"
 
-"@automatons/parser@^1.2.54":
-  version "1.2.54"
-  resolved "https://registry.yarnpkg.com/@automatons/parser/-/parser-1.2.54.tgz#93306097fc85bc17f253989a1a6b2a10b229370a"
-  integrity sha512-/whPGXw23Ft1vQfAJDQ5NOe4idv/TEzmrqoUgDOMIVZT+M048aN6RBXK61xUIG6GwwiPDfI+C+K8JG9JAS2Xyw==
+"@automatons/parser@^1.2.55":
+  version "1.2.55"
+  resolved "https://registry.yarnpkg.com/@automatons/parser/-/parser-1.2.55.tgz#fa239bd504b238ae7b7e6a2b7942bbbd2f142e4e"
+  integrity sha512-Mz6Zh8Fw9Tauu1tRjWY55ZfS7vi7/KhghPlFZAvHa7psJhlUywUD+T5X6Qeh+PwxuCVuDD5xvrFtanPSnvUIFg==
   dependencies:
     "@automatons/tools" "^2.2.35"
     change-case "^5.4.4"
@@ -5129,10 +5129,10 @@ tsup@^8.5.0:
     tinyglobby "^0.2.11"
     tree-kill "^1.2.2"
 
-tsx@^4.23.5:
-  version "4.23.5"
-  resolved "https://registry.yarnpkg.com/tsx/-/tsx-4.23.5.tgz#fbf78241ff3e616c5dc96e6113200b0e6899e7dc"
-  integrity sha512-rw55FUaqOoI7RvlQwLbhO4nSDApnQ4/CykPuiQ/EPvtrX3WA9Ig55jIt9VvbBJbzJuj12ueRu4PMZ2SxPVbihg==
+tsx@^4.23.9:
+  version "4.23.9"
+  resolved "https://registry.yarnpkg.com/tsx/-/tsx-4.23.9.tgz#34857961fcfb44f22d05ae905fa32dc182608c33"
+  integrity sha512-6q8uTORRGauQVjqMQnKUucLFoeXZAfw6zKvG35GLbdKWbLdeOtZ3H4mhyA5mxuUd2o2cRTskhj59nLLQseUvUw==
   dependencies:
     esbuild "~0.28.0"
   optionalDependencies:
