@@ -1,3 +1,12 @@
+## [1.2.15](https://github.com/[secure]-[secure]/typescript-client-[secure]/compare/v1.2.14...v1.2.15) (2026-08-11)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @types/node from 26.1.2 to 26.2.0 ([#115](https://github.com/[secure]-[secure]/typescript-client-[secure]/issues/115)) ([f51d36d](https://github.com/[secure]-[secure]/typescript-client-[secure]/commit/f51d36d93728adbc0b71a8a1760fac19e7179a3e))
+* **deps-dev:** bump eslint from 10.8.0 to 10.8.1 ([#114](https://github.com/[secure]-[secure]/typescript-client-[secure]/issues/114)) ([5254ec6](https://github.com/[secure]-[secure]/typescript-client-[secure]/commit/5254ec6831985266fae152c56726ec070f7dd140))
+* **deps-dev:** bump tsx from 4.23.9 to 4.23.11 ([#116](https://github.com/[secure]-[secure]/typescript-client-[secure]/issues/116)) ([1f6a12b](https://github.com/[secure]-[secure]/typescript-client-[secure]/commit/1f6a12b069cf3a07c61b753e72fb5305debc9a65))
+
 ## [1.2.14](https://github.com/[secure]-[secure]/typescript-client-[secure]/compare/v1.2.13...v1.2.14) (2026-08-11)
 
 
