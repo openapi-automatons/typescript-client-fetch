@@ -1,3 +1,11 @@
+## [1.2.19](https://github.com/[secure]-[secure]/typescript-client-[secure]/compare/v1.2.18...v1.2.19) (2026-08-17)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @commitlint/cli from 21.2.1 to 21.2.2 ([#122](https://github.com/[secure]-[secure]/typescript-client-[secure]/issues/122)) ([af29485](https://github.com/[secure]-[secure]/typescript-client-[secure]/commit/af294854aed01d1492b29a8f6fd2b132b40c1c67))
+* **deps:** bump @[secure]/parser from 1.2.58 to 1.2.60 ([#121](https://github.com/[secure]-[secure]/typescript-client-[secure]/issues/121)) ([e55822e](https://github.com/[secure]-[secure]/typescript-client-[secure]/commit/e55822e7f30603740e3218b54e3456bd931e16a3))
+
 ## [1.2.18](https://github.com/[secure]-[secure]/typescript-client-[secure]/compare/v1.2.17...v1.2.18) (2026-08-14)
 
 
