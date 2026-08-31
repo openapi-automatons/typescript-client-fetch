@@ -1,3 +1,11 @@
+## [1.2.26](https://github.com/[secure]-[secure]/typescript-client-[secure]/compare/v1.2.25...v1.2.26) (2026-08-31)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @types/node from 26.3.0 to 26.4.0 ([#133](https://github.com/[secure]-[secure]/typescript-client-[secure]/issues/133)) ([44cfa37](https://github.com/[secure]-[secure]/typescript-client-[secure]/commit/44cfa37efe70bbe9a5aef1af15bfb4dc4bb601f1))
+* **deps-dev:** bump lint-staged from 17.3.0 to 17.4.1 ([#134](https://github.com/[secure]-[secure]/typescript-client-[secure]/issues/134)) ([410bde0](https://github.com/[secure]-[secure]/typescript-client-[secure]/commit/410bde0d618c5963b8282a77d00f8766ef2f41c4))
+
 ## [1.2.25](https://github.com/[secure]-[secure]/typescript-client-[secure]/compare/v1.2.24...v1.2.25) (2026-08-28)
 
 
