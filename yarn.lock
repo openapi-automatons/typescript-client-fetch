@@ -30,20 +30,20 @@
   resolved "https://registry.yarnpkg.com/@actions/io/-/io-3.0.2.tgz#6f89b27a159d109836d983efa283997c23b92284"
   integrity sha512-nRBchcMM+QK1pdjO7/idu86rbJI5YHUKCvKs0KxnSYbVe3F51UfGxuZX4Qy/fWlp6l7gWFwIkrOzN+oUK03kfw==
 
-"@automatons/parser@^1.2.71":
-  version "1.2.71"
-  resolved "https://registry.yarnpkg.com/@automatons/parser/-/parser-1.2.71.tgz#485d3dc1e67935230ec3ab60999a4c8f0ebce931"
-  integrity sha512-0Iq3jn57Q5XbxFoyUK1if8j8n9MjjMd0aFkU0zwfqtokCVGsTcNRGN1Sg1d9F0u9jXZ/zVRzr6aEtY7QDk59qA==
+"@automatons/parser@^1.2.73":
+  version "1.2.73"
+  resolved "https://registry.yarnpkg.com/@automatons/parser/-/parser-1.2.73.tgz#7e8a07c245decf51fd0a9938403d2cbdb71eebac"
+  integrity sha512-aTiRep8EEQzG4DYB49Tya3OafhULpB6C5jkP9nJ+KeYOhmiv3Nz23wF92kEWSUEfPwMFfv/DqKX9L8J4xNmb4A==
   dependencies:
-    "@automatons/tools" "^2.2.46"
+    "@automatons/tools" "^2.2.49"
     change-case "^5.4.4"
 
-"@automatons/tools@^2.2.38", "@automatons/tools@^2.2.46":
-  version "2.2.49"
-  resolved "https://registry.yarnpkg.com/@automatons/tools/-/tools-2.2.49.tgz#c0bb5fe0fdb209d5a1ac538392552dc63c93695d"
-  integrity sha512-QxJtA8DLc2raleRBjrklDM2sLocKqkSCjjsF8tX9d2AH1Cc+ccwsGm1HpluzYCpK1MUi/LzsiV6m6ujtJ7uyfQ==
+"@automatons/tools@^2.2.38", "@automatons/tools@^2.2.49":
+  version "2.2.52"
+  resolved "https://registry.yarnpkg.com/@automatons/tools/-/tools-2.2.52.tgz#c372b27b5bad777db2ae8e226064a7d349916e2d"
+  integrity sha512-4od//kKTMQn4VHSBH6id/LcKwzsPW3L9mBrn3IRXaOcerWWGLAHNMfHnF+l/C/vgHXiwRSgyOnHgieZfYgeA3w==
   dependencies:
-    js-yaml "^5.4.1"
+    js-yaml "^5.5.0"
 
 "@babel/code-frame@^7.0.0", "@babel/code-frame@^7.26.2", "@babel/code-frame@^7.29.7":
   version "7.29.7"
@@ -1627,6 +1627,11 @@ argparse@^2.0.1:
   resolved "https://registry.yarnpkg.com/argparse/-/argparse-2.0.1.tgz#246f50f3ca78a3240f6c997e8a9bd1eac49e4b38"
   integrity sha512-8+9WqebbFzpX9OR+Wa6O29asIogeRMzcGtAINdpMHHyAg10f05aSFVBbcEqGf/PXw1EjAZ+q2/bEBg3DvurK3Q==
 
+argparse@^3.0.3:
+  version "3.0.4"
+  resolved "https://registry.yarnpkg.com/argparse/-/argparse-3.0.4.tgz#ba802dd75fdc3d5bdcb4339b713d62c6c5d4565d"
+  integrity sha512-fwWK3Zq22l4XJJjx5mcBHGikIk+hJqO+32dPm0Jur7+rtG5x1scOjSfdT9ZKeWHPpsya/l0HHK4tDImBkTrtvA==
+
 argv-formatter@~1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/argv-formatter/-/argv-formatter-1.0.0.tgz#a0ca0cbc29a5b73e836eebe1cbf6c5e0e4eb82f9"
@@ -3055,12 +3060,12 @@ js-yaml@^4.1.0:
   dependencies:
     argparse "^2.0.1"
 
-js-yaml@^5.4.1:
-  version "5.4.1"
-  resolved "https://registry.yarnpkg.com/js-yaml/-/js-yaml-5.4.1.tgz#4629d91d4b4551f300435f0e4127899710f816fb"
-  integrity sha512-28R/k+NAjeuf7+CKlTxWZVExJGwVVLwY06DgEnOMz2gEpfNkDcD7QvyiVPT0xy0XXhU8vHsd4Ot42OOPdJG7dQ==
+js-yaml@^5.5.0:
+  version "5.5.0"
+  resolved "https://registry.yarnpkg.com/js-yaml/-/js-yaml-5.5.0.tgz#ec843f09ffb2a54b6758a41eee109a1815d16442"
+  integrity sha512-paNr4LFIFPjeeSmwNYdrb8FafLLG/Cr2Af3GjbsHJ5CxIjH4r0c2emlmRdAtpPAieP1gRVzk6buBbVP5gBMGAg==
   dependencies:
-    argparse "^2.0.1"
+    argparse "^3.0.3"
 
 jsesc@^3.0.2:
   version "3.1.0"
